@@ -111,6 +111,12 @@
         "url": "https://github.com/nwreese/Are_We_There_Yet"
       },
       {
+        "title": "Workout Tracker",
+        "category": "Allows user to view and track threir daily workouts",
+        "image": "dashboard.png",
+        "url": "https://github.com/nwreese/Workout-Tracker"
+      },
+      {
         "title": "Work Day Scheduler",
         "category": "Allows user to save events in each hour with colors changing depending on past, present, future.",
         "image": "workDay.png",
