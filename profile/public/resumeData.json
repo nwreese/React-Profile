@@ -18,19 +18,14 @@
     "resumedownload": "https://docs.google.com/document/d/1baZORphMpRgPrq6Cc8BhbPOj7-u63Q2rL0HpQsjHoIs/edit?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/nick-reese-201127205/",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/nwreese",
+        "className": "fa fa-github-square"
       },
       {
         "name": "instagram",
@@ -38,9 +33,14 @@
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "http://github.com/nwreese",
-        "className": "fa fa-github"
+        "name": "spotify",
+        "url": "https://open.spotify.com/artist/4GGXD4wkhELLmPA3sTKHDD?si=CVk6_7aoRjqmgymXTp_oEQ",
+        "className": "fa fa-volume-up"
+      },
+      {
+        "name": "bandcamp",
+        "url": "https://coupdegraceband.bandcamp.com/",
+        "className": "fa fa-headphones"
       }
     ]
   },
