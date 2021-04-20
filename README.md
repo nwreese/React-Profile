@@ -3,4 +3,4 @@ This is my React based portfolio. This application uses the particles-bg package
 # Deployed 
 https://nwreese.github.io/React-Profile/
 # Screenshot
-<img src = "reactProfileHome.png">
+<img src = "reactProfileHome3.png">
