@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ParticlesBg from 'particles-bg';
 
 class Header extends Component {
   render() {
@@ -14,6 +15,7 @@ class Header extends Component {
     }
 
     return (
+       <>
       <header id="home">
 
       <nav id="nav-wrap">
@@ -46,8 +48,10 @@ class Header extends Component {
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
-
    </header>
+   
+   <ParticlesBg type="square" bg={true} />
+   </>
     );
   }
 }

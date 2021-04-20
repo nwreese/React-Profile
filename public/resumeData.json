@@ -3,7 +3,7 @@
     "name": "Nick Reese",
     "occupation": "Full Stack Web Developer",
     "description": "I am a musician currently enrolled in the Full Stack Web Development boot camp at Case Western Reserve University, powered by Trilogy",
-    "image": "profilepic.jpg",
+    "image": "profilePic.jpg",
     "bio": "I am comfortable using Node, Express, JavaScript, API's, AJAX, HTML, CSS, React, Mongo, MySQL, PWA's and Handlebars. In my free time I enjoy writing and performing music live, both solo and with a band. I like to go kayaking, hiking and also enjoy shooting photos with my Polaroid. I am also a dog dad to a cockapoo named Lamb.",
     "contactmessage": "Please contact me via email or phone.",
     "email": "nwreese@kent.edu",
