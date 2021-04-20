@@ -50,7 +50,7 @@ class Header extends Component {
       </p>
    </header>
    
-   <ParticlesBg type="square" bg={true} />
+   <ParticlesBg type="circle"bg={true} />
    </>
     );
   }
